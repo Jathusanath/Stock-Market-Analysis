@@ -24,6 +24,7 @@ The analysis includes:
 | Microsoft          |              0 |                100 |            0.163169 |                0.282223 |       0.396744 | 0.117386 |
 | Minimum Volatility |             51 |                 49 |            0.199393 |                0.246106 |       0.579659 | 0.162833 |
 | Highest sharpe     |             85 |                 15 |            0.224164 |                0.263368 |       0.619347 | 0.181567 |
+
 Apple had a higher CAGR and return compared to Microsoft over the five year period. The individual Apple stock had the highest return while the 85/15 portfolio had the highest Sharpe which suggests that this portfolio had a higher risk adjusted performance. Additionally, combining the two stocks of Apple and Microsoft resulted in a lower volatility compared to the individual stocks which highlights the diversification effect.
 ## Visualisation
 ### Apple Vs Microsoft Cumulative growth
