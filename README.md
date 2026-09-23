@@ -35,3 +35,5 @@ pandas: data manipulation and analysis
 Matplotlib: data visualisation
 yfinance: retrieval of historical stock market data
 Git and GitHub: version control and project hosting
+## Conclusion
+This project explored the historical performance of Apple and Microsoft using python. The analysis demonstrated how measures such as returns, volatility, Share ratios and correlation can be used to compare individual assets and construct portfolios. The portfolio analysis highlighted the diversification effect and how combining assets that do not have a perfect correlation can reduce overall risk. Overall, this project provided practical experience in financial data analysis, portfolio construction and Python based quantitative methods.
